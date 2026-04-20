@@ -109,7 +109,7 @@ Proje raporu repo içinde yer almaktadır:
 
 Proje anlatım videosu bağlantısı:
 
-- `https://youtu.be/rA_DXLe4KgI`
+- [Proje Videosunu İzlemek İçin Tıklayın](https://youtu.be/rA_DXLe4KgI)
 
 ## Sonuç
 
