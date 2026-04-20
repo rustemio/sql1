@@ -1,0 +1,7 @@
+SELECT TOP (1000) [customer_id]
+      ,[first_name]
+      ,[last_name]
+      ,[city]
+      ,[country]
+      ,[email]
+  FROM [21291001_PERF].[dbo].[customers_perf]
