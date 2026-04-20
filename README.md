@@ -77,34 +77,6 @@ Böylece erişim yönetimi yapısı uygulamalı olarak gösterilmiştir.
 
 `sql/` klasörü içinde proje boyunca kullanılan SQL sorguları bulunmaktadır.
 
-Örnek dosyalar:
-
-- `01_veritabanini_olusturma.sql`
-- `02_tablolari_olusturma.sql`
-- `03_musteri_verilerini_ekleme.sql`
-- `04_urun_verilerini_ekleme.sql`
-- `05_siparis_verilerini_ekleme.sql`
-- `06_veri_hacmini_kontrol_etme.sql`
-- `07_optimizasyon_oncesi_sorgu.sql`
-- `08_indeks_olusturma.sql`
-- `09_optimizasyon_sonrasi_sorgu.sql`
-- `10_karsilastirma_tablosu.sql`
-- `11_dmv_izleme.sql`
-- `12_rolleri_olusturma.sql`
-- `13_kullanicilari_rollere_atama.sql`
-- `14_rol_testleri.sql`
-
-## Ekran Görüntüleri
-
-`screenshots/` klasörü içinde proje adımlarına ait ekran görüntüleri bulunmaktadır.
-
-## Rapor
-
-Proje raporu repo içinde yer almaktadır:
-
-- `report.docx`
-- `report.pdf`
-
 ## Video
 
 Proje anlatım videosu bağlantısı:
